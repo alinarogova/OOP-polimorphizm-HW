@@ -1,0 +1,4 @@
+{"shape_type": "Square", "x": 1, "y": -1, "a": 4}
+{"shape_type": "Rectangle", "x": 0, "y": 1, "a": 2, "b": 3}
+{"shape_type": "Circle", "x": 0, "y": 0, "r": 1}
+{"shape_type": "Ellipse", "x": -3, "y": -2, "a": 4, "b": 5}
